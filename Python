@@ -1,0 +1,10 @@
+import os
+
+# URL of the GitHub repository to clone
+url = "https://github.com/username/repo"
+
+# Directory where the repository will be cloned
+directory = "/path/to/cloned/repo"
+
+# Run the Git command to clone the repository
+os.system(f"git clone {url} {directory}")
