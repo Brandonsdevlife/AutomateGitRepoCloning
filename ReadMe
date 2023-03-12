@@ -1,0 +1,3 @@
+In this script, we use the os module to run a Git command to clone the repository. We pass in the repository URL and directory where we want to clone the repository as parameters to the git clone command.
+
+To use this script, simply replace the url and directory variables with the URL of the repository you want to clone and the directory where you want to clone it, respectively. Then run the script and it will automatically clone the repository for you.
